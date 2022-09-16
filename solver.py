@@ -1,4 +1,4 @@
-# this code is to print out the best case items in a knapsack
+# this code is to print out the best case items in a knapsack using dynamic programming
 
 from collections import namedtuple
 from typing import List, Any
